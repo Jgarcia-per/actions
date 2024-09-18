@@ -1,6 +1,6 @@
 name: Hello World
 
-on: Push
+on: [push]
 
 jobs:
   hello:
